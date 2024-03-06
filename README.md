@@ -1,1 +1,1 @@
-#  The project includes the css creative styling.Wqipped with hamburger side bar.
+#  The project includes the css creative styling.Eqipped with hamburger side bar.
